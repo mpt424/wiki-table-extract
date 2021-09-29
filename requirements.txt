@@ -1,0 +1,7 @@
+BeautifulSoup4
+requests
+pandas
+lxml
+html5lib
+webbrowser
+pytest
