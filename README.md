@@ -2,14 +2,15 @@
 Extract fields from wiki page tables
 
 ## Requirments
+required:
 `BeautifulSoup4
 requests
 pandas
 lxml
 html5lib
 webbrowser`
-
-`pytest (optional)`
+optional:
+`pytest`
 
 ## Usage
 
